@@ -1,6 +1,6 @@
 {
   "id": "thethorgroup.sas-activator",
-  "url": "https://raw.githubusercontent.com/RedPill-TTG/redpill-sas-activator/master/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/Scoobdriver/redpill-sas-activator/master/rpext-index.json",
   "info": {
     "name": "Built-in SAS driver activator",
     "description": "Simple extension which loads SAS drivers natively shipped with the OS",
